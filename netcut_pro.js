@@ -7,7 +7,7 @@
 // @match        https://www.arcai.com/netCut/s/
 // @grant        GM_webRequest
 // @webRequest   [{"selector":"https://www.arcai.com/netCut/s/main-*.js","action":"cancel"}]
-// @require       http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js
+// @require       http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.netcut_pro.js
 // ==/UserScript==
 
 (function() {
